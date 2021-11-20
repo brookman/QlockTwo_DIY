@@ -1,0 +1,30 @@
+[package]
+name = "a_clockwork_blue"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+#d1-mini = "0.2.0"
+panic-halt = "0.2"
+paste = "1.0.6"
+dcf77 = "0.1.0"
+
+[dependencies.bitbang-hal]
+version = "^0.3.2"
+
+[dependencies.esp8266-hal]
+version = "^0.5"
+
+[profile.dev]
+lto = false
+
+[profile.test]
+lto = false
+
+[profile.bench]
+lto = false
+
+[profile.release]
+lto = false
