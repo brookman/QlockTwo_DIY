@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f15f8655-f658-4b33-a2c5-d0bfd255b083" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.cargo/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build_and_flash.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/esp32c3-rust.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/espflash.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/release/.fingerprint/compiler_builtins-0f26ad40dde9f733/build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/release/.fingerprint/compiler_builtins-0f26ad40dde9f733/build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/release/.fingerprint/compiler_builtins-0f26ad40dde9f733/dep-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/release/.fingerprint/compiler_builtins-0f26ad40dde9f733/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/release/.fingerprint/esp32c3-29fb90b2f27e2f10/dep-lib-esp32c3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/release/.fingerprint/esp32c3-29fb90b2f27e2f10/lib-esp32c3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/release/.fingerprint/esp32c3-29fb90b2f27e2f10/lib-esp32c3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/release/.fingerprint/esp32c3-rust-31e482f2c2200db9/bin-esp32c3-rust" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/release/.fingerprint/esp32c3-rust-31e482f2c2200db9/bin-esp32c3-rust.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/release/.fingerprint/esp32c3-rust-31e482f2c2200db9/dep-bin-esp32c3-rust" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/release/.fingerprint/esp32c3-rust-31e482f2c2200db9/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/release/build/compiler_builtins-0f26ad40dde9f733/build-script-build.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/release/build/compiler_builtins-0f26ad40dde9f733/build_script_build-0f26ad40dde9f733.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/release/build/compiler_builtins-0f26ad40dde9f733/build_script_build-0f26ad40dde9f733.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/release/build/compiler_builtins-0f26ad40dde9f733/build_script_build-0f26ad40dde9f733.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/release/build/compiler_builtins-0f26ad40dde9f733/build_script_build.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/release/deps/esp32c3_rust.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/release/deps/esp32c3_rust.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/release/deps/esp32c3_rust.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/release/deps/libesp32c3-29fb90b2f27e2f10.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/release/deps/libesp32c3-29fb90b2f27e2f10.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/release/esp32c3-rust.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/release/esp32c3-rust.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/release/esp32c3_rust.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/adler-87c48bdbe8b3a8b5/dep-lib-adler" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/adler-87c48bdbe8b3a8b5/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/adler-87c48bdbe8b3a8b5/lib-adler" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/adler-87c48bdbe8b3a8b5/lib-adler.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/base64-4f58b0bdcf909a79/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/base64-4f58b0bdcf909a79/output-lib-base64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/cfg-if-2da4d0da7a455690/dep-lib-cfg-if" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/cfg-if-2da4d0da7a455690/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/cfg-if-2da4d0da7a455690/lib-cfg-if" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/cfg-if-2da4d0da7a455690/lib-cfg-if.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/compiler_builtins-73caa99df44cdb5d/dep-lib-compiler_builtins" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/compiler_builtins-73caa99df44cdb5d/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/compiler_builtins-73caa99df44cdb5d/lib-compiler_builtins" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/compiler_builtins-73caa99df44cdb5d/lib-compiler_builtins.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/compiler_builtins-ffae9363228a0379/run-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/compiler_builtins-ffae9363228a0379/run-build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/core-a40a5ea4f5b351b0/dep-lib-core" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/core-a40a5ea4f5b351b0/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/core-a40a5ea4f5b351b0/lib-core" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/core-a40a5ea4f5b351b0/lib-core.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/cty-6885a4d17ad052e9/dep-lib-cty" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/cty-6885a4d17ad052e9/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/cty-6885a4d17ad052e9/lib-cty" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/cty-6885a4d17ad052e9/lib-cty.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/esp32c3-rust-479a7937e79b9d70/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/esp32c3-rust-479a7937e79b9d70/output-bin-esp32c3-rust" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/esp32c3-rust-8bb2bada6e37bddf/bin-esp32c3-rust" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/esp32c3-rust-8bb2bada6e37bddf/bin-esp32c3-rust.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/esp32c3-rust-8bb2bada6e37bddf/dep-bin-esp32c3-rust" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/esp32c3-rust-8bb2bada6e37bddf/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/esp32c3-rust-8bb2bada6e37bddf/output-bin-esp32c3-rust" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/gimli-f5d99e03dfbfd212/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/gimli-f5d99e03dfbfd212/output-lib-gimli" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/itoa-910f0a131de3992b/dep-lib-itoa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/itoa-910f0a131de3992b/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/itoa-910f0a131de3992b/lib-itoa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/itoa-910f0a131de3992b/lib-itoa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/matches-23b00ed964f91d9f/dep-lib-matches" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/matches-23b00ed964f91d9f/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/matches-23b00ed964f91d9f/lib-matches" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/matches-23b00ed964f91d9f/lib-matches.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/mutex-trait-9a6094c1e850738a/dep-lib-mutex-trait" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/mutex-trait-9a6094c1e850738a/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/mutex-trait-9a6094c1e850738a/lib-mutex-trait" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/mutex-trait-9a6094c1e850738a/lib-mutex-trait.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/no-std-net-bde986f7effbebd0/dep-lib-no-std-net" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/no-std-net-bde986f7effbebd0/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/no-std-net-bde986f7effbebd0/lib-no-std-net" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/no-std-net-bde986f7effbebd0/lib-no-std-net.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/panic-halt-d0eacc51cef62938/dep-lib-panic-halt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/panic-halt-d0eacc51cef62938/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/panic-halt-d0eacc51cef62938/lib-panic-halt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/panic-halt-d0eacc51cef62938/lib-panic-halt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/percent-encoding-cc05ab4f35909a05/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/percent-encoding-cc05ab4f35909a05/output-lib-percent-encoding" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/rustc-demangle-e256b36efc467ada/dep-lib-rustc-demangle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/rustc-demangle-e256b36efc467ada/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/rustc-demangle-e256b36efc467ada/lib-rustc-demangle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/rustc-demangle-e256b36efc467ada/lib-rustc-demangle.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/rustc-std-workspace-core-ffdf2ce8c14b20b3/dep-lib-rustc-std-workspace-core" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/rustc-std-workspace-core-ffdf2ce8c14b20b3/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/rustc-std-workspace-core-ffdf2ce8c14b20b3/lib-rustc-std-workspace-core" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/rustc-std-workspace-core-ffdf2ce8c14b20b3/lib-rustc-std-workspace-core.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/strum-2de4d18c49bb9503/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/strum-2de4d18c49bb9503/output-lib-strum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/tinyvec_macros-db28c14cd6174047/dep-lib-tinyvec_macros" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/tinyvec_macros-db28c14cd6174047/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/tinyvec_macros-db28c14cd6174047/lib-tinyvec_macros" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/tinyvec_macros-db28c14cd6174047/lib-tinyvec_macros.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/unicode-bidi-13d16169d5b1dd3d/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/.fingerprint/unicode-bidi-13d16169d5b1dd3d/output-lib-unicode_bidi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/build/compiler_builtins-ffae9363228a0379/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/build/compiler_builtins-ffae9363228a0379/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/build/compiler_builtins-ffae9363228a0379/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/build/compiler_builtins-ffae9363228a0379/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/adler-87c48bdbe8b3a8b5.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/cfg_if-2da4d0da7a455690.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/compiler_builtins-73caa99df44cdb5d.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/core-a40a5ea4f5b351b0.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/cty-6885a4d17ad052e9.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/esp32c3_rust-479a7937e79b9d70.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/esp32c3_rust-8bb2bada6e37bddf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/esp32c3_rust-8bb2bada6e37bddf.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/gimli-f5d99e03dfbfd212.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/itoa-910f0a131de3992b.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/libadler-87c48bdbe8b3a8b5.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/libadler-87c48bdbe8b3a8b5.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/libcfg_if-2da4d0da7a455690.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/libcfg_if-2da4d0da7a455690.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/libcompiler_builtins-73caa99df44cdb5d.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/libcompiler_builtins-73caa99df44cdb5d.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/libcore-a40a5ea4f5b351b0.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/libcore-a40a5ea4f5b351b0.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/libcty-6885a4d17ad052e9.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/libcty-6885a4d17ad052e9.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/libitoa-910f0a131de3992b.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/libitoa-910f0a131de3992b.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/libmatches-23b00ed964f91d9f.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/libmatches-23b00ed964f91d9f.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/libmutex_trait-9a6094c1e850738a.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/libmutex_trait-9a6094c1e850738a.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/libno_std_net-bde986f7effbebd0.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/libno_std_net-bde986f7effbebd0.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/libpanic_halt-d0eacc51cef62938.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/libpanic_halt-d0eacc51cef62938.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/librustc_demangle-e256b36efc467ada.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/librustc_demangle-e256b36efc467ada.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/librustc_std_workspace_core-ffdf2ce8c14b20b3.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/librustc_std_workspace_core-ffdf2ce8c14b20b3.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/libtinyvec_macros-db28c14cd6174047.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/libtinyvec_macros-db28c14cd6174047.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/matches-23b00ed964f91d9f.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/mutex_trait-9a6094c1e850738a.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/no_std_net-bde986f7effbebd0.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/panic_halt-d0eacc51cef62938.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/rustc_demangle-e256b36efc467ada.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/rustc_std_workspace_core-ffdf2ce8c14b20b3.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/deps/tinyvec_macros-db28c14cd6174047.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/esp32c3-rust" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32i-unknown-none-elf/release/esp32c3-rust.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/CACHEDIR.TAG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.cargo-lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/anyhow-2c3fc5c59a4ba4bb/run-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/anyhow-2c3fc5c59a4ba4bb/run-build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/anyhow-476efec32c1f8880/run-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/anyhow-476efec32c1f8880/run-build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/backtrace-6da90d3b64c29a34/run-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/backtrace-6da90d3b64c29a34/run-build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/backtrace-dd72c04b2b87bcfa/run-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/backtrace-dd72c04b2b87bcfa/run-build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/compiler_builtins-3ba87df9769a8e74/run-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/compiler_builtins-3ba87df9769a8e74/run-build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/compiler_builtins-5bcb2298f68a8e1e/dep-lib-compiler_builtins" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/compiler_builtins-5bcb2298f68a8e1e/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/compiler_builtins-5bcb2298f68a8e1e/lib-compiler_builtins" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/compiler_builtins-5bcb2298f68a8e1e/lib-compiler_builtins.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/compiler_builtins-a3966a1ac48af4c8/run-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/compiler_builtins-a3966a1ac48af4c8/run-build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/compiler_builtins-a763ee4859780825/dep-lib-compiler_builtins" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/compiler_builtins-a763ee4859780825/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/compiler_builtins-a763ee4859780825/lib-compiler_builtins" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/compiler_builtins-a763ee4859780825/lib-compiler_builtins.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/core-163e01d09d5943ee/dep-lib-core" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/core-163e01d09d5943ee/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/core-163e01d09d5943ee/lib-core" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/core-163e01d09d5943ee/lib-core.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/core-34a96376f63b260c/dep-lib-core" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/core-34a96376f63b260c/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/core-34a96376f63b260c/lib-core" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/core-34a96376f63b260c/lib-core.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/esp32c3-399f75ff40fbdd30/run-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/esp32c3-399f75ff40fbdd30/run-build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/esp32c3-813dec19f7b9fe9c/run-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/esp32c3-813dec19f7b9fe9c/run-build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/libc-3ea8a2e32ed12f09/dep-lib-libc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/libc-3ea8a2e32ed12f09/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/libc-3ea8a2e32ed12f09/lib-libc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/libc-3ea8a2e32ed12f09/lib-libc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/libc-68130c816cd4d042/run-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/libc-68130c816cd4d042/run-build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/libc-7e0e9dfae606d6d4/run-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/libc-7e0e9dfae606d6d4/run-build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/libc-9a033e5593130c5b/dep-lib-libc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/libc-9a033e5593130c5b/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/libc-9a033e5593130c5b/lib-libc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/libc-9a033e5593130c5b/lib-libc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/libc-9b87d3ca0a763294/run-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/libc-9b87d3ca0a763294/run-build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/libc-ce7db1b67fd13a22/run-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/libc-ce7db1b67fd13a22/run-build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/log-4e0f8aaa01ffaff4/run-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/log-4e0f8aaa01ffaff4/run-build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/log-94dee8dca7e734e0/run-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/log-94dee8dca7e734e0/run-build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/memchr-8ae4877fd8b4b369/run-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/memchr-8ae4877fd8b4b369/run-build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/memchr-d68aecbec5e15bd3/run-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/memchr-d68aecbec5e15bd3/run-build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/miniz_oxide-93c70ba45b1afd11/run-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/miniz_oxide-93c70ba45b1afd11/run-build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/miniz_oxide-c78a7f52a5834469/run-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/miniz_oxide-c78a7f52a5834469/run-build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/rustc-std-workspace-core-2b2d20813ae95118/dep-lib-rustc-std-workspace-core" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/rustc-std-workspace-core-2b2d20813ae95118/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/rustc-std-workspace-core-2b2d20813ae95118/lib-rustc-std-workspace-core" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/rustc-std-workspace-core-2b2d20813ae95118/lib-rustc-std-workspace-core.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/rustc-std-workspace-core-81586f448c62ffe5/dep-lib-rustc-std-workspace-core" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/rustc-std-workspace-core-81586f448c62ffe5/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/rustc-std-workspace-core-81586f448c62ffe5/lib-rustc-std-workspace-core" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/rustc-std-workspace-core-81586f448c62ffe5/lib-rustc-std-workspace-core.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/ryu-60ddb72bcf19627e/run-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/ryu-60ddb72bcf19627e/run-build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/ryu-c31ed80460ae1d22/run-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/ryu-c31ed80460ae1d22/run-build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/serde-59a3ef8b8bae8288/run-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/serde-59a3ef8b8bae8288/run-build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/serde-f3de7cd5d147f621/run-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/serde-f3de7cd5d147f621/run-build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/serde_json-6e9c26750c4a18e4/run-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/serde_json-6e9c26750c4a18e4/run-build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/serde_json-e4469bd4437a7eae/run-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/serde_json-e4469bd4437a7eae/run-build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/std-391afc075585b95a/run-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/std-391afc075585b95a/run-build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/std-9af69ce2953e51c2/run-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/std-9af69ce2953e51c2/run-build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/unwind-4352a461739f8c7c/run-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/unwind-4352a461739f8c7c/run-build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/unwind-7182e9209667f0be/run-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/.fingerprint/unwind-7182e9209667f0be/run-build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/anyhow-2c3fc5c59a4ba4bb/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/anyhow-2c3fc5c59a4ba4bb/out/libanyhow_build.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/anyhow-2c3fc5c59a4ba4bb/out/probe.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/anyhow-2c3fc5c59a4ba4bb/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/anyhow-2c3fc5c59a4ba4bb/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/anyhow-2c3fc5c59a4ba4bb/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/anyhow-476efec32c1f8880/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/anyhow-476efec32c1f8880/out/libanyhow_build.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/anyhow-476efec32c1f8880/out/probe.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/anyhow-476efec32c1f8880/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/anyhow-476efec32c1f8880/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/anyhow-476efec32c1f8880/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/backtrace-6da90d3b64c29a34/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/backtrace-6da90d3b64c29a34/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/backtrace-6da90d3b64c29a34/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/backtrace-6da90d3b64c29a34/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/backtrace-dd72c04b2b87bcfa/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/backtrace-dd72c04b2b87bcfa/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/backtrace-dd72c04b2b87bcfa/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/backtrace-dd72c04b2b87bcfa/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/compiler_builtins-3ba87df9769a8e74/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/compiler_builtins-3ba87df9769a8e74/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/compiler_builtins-3ba87df9769a8e74/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/compiler_builtins-3ba87df9769a8e74/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/compiler_builtins-a3966a1ac48af4c8/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/compiler_builtins-a3966a1ac48af4c8/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/compiler_builtins-a3966a1ac48af4c8/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/compiler_builtins-a3966a1ac48af4c8/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/esp32c3-399f75ff40fbdd30/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/esp32c3-399f75ff40fbdd30/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/esp32c3-399f75ff40fbdd30/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/esp32c3-399f75ff40fbdd30/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/esp32c3-813dec19f7b9fe9c/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/esp32c3-813dec19f7b9fe9c/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/esp32c3-813dec19f7b9fe9c/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/esp32c3-813dec19f7b9fe9c/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/libc-68130c816cd4d042/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/libc-68130c816cd4d042/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/libc-68130c816cd4d042/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/libc-68130c816cd4d042/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/libc-7e0e9dfae606d6d4/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/libc-7e0e9dfae606d6d4/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/libc-7e0e9dfae606d6d4/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/libc-7e0e9dfae606d6d4/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/libc-9b87d3ca0a763294/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/libc-9b87d3ca0a763294/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/libc-9b87d3ca0a763294/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/libc-9b87d3ca0a763294/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/libc-ce7db1b67fd13a22/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/libc-ce7db1b67fd13a22/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/libc-ce7db1b67fd13a22/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/libc-ce7db1b67fd13a22/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/log-4e0f8aaa01ffaff4/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/log-4e0f8aaa01ffaff4/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/log-4e0f8aaa01ffaff4/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/log-4e0f8aaa01ffaff4/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/log-94dee8dca7e734e0/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/log-94dee8dca7e734e0/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/log-94dee8dca7e734e0/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/log-94dee8dca7e734e0/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/memchr-8ae4877fd8b4b369/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/memchr-8ae4877fd8b4b369/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/memchr-8ae4877fd8b4b369/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/memchr-8ae4877fd8b4b369/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/memchr-d68aecbec5e15bd3/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/memchr-d68aecbec5e15bd3/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/memchr-d68aecbec5e15bd3/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/memchr-d68aecbec5e15bd3/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/miniz_oxide-93c70ba45b1afd11/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/miniz_oxide-93c70ba45b1afd11/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/miniz_oxide-93c70ba45b1afd11/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/miniz_oxide-93c70ba45b1afd11/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/miniz_oxide-c78a7f52a5834469/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/miniz_oxide-c78a7f52a5834469/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/miniz_oxide-c78a7f52a5834469/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/miniz_oxide-c78a7f52a5834469/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/riscv-15aa80c6b1a0c9ca/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/riscv-b08fbb198564ab97/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/ryu-60ddb72bcf19627e/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/ryu-60ddb72bcf19627e/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/ryu-60ddb72bcf19627e/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/ryu-60ddb72bcf19627e/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/ryu-c31ed80460ae1d22/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/ryu-c31ed80460ae1d22/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/ryu-c31ed80460ae1d22/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/ryu-c31ed80460ae1d22/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/serde-59a3ef8b8bae8288/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/serde-59a3ef8b8bae8288/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/serde-59a3ef8b8bae8288/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/serde-59a3ef8b8bae8288/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/serde-f3de7cd5d147f621/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/serde-f3de7cd5d147f621/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/serde-f3de7cd5d147f621/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/serde-f3de7cd5d147f621/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/serde_json-6e9c26750c4a18e4/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/serde_json-6e9c26750c4a18e4/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/serde_json-6e9c26750c4a18e4/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/serde_json-6e9c26750c4a18e4/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/serde_json-e4469bd4437a7eae/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/serde_json-e4469bd4437a7eae/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/serde_json-e4469bd4437a7eae/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/serde_json-e4469bd4437a7eae/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/std-391afc075585b95a/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/std-391afc075585b95a/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/std-391afc075585b95a/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/std-391afc075585b95a/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/std-9af69ce2953e51c2/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/std-9af69ce2953e51c2/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/std-9af69ce2953e51c2/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/std-9af69ce2953e51c2/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/unwind-4352a461739f8c7c/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/unwind-4352a461739f8c7c/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/unwind-4352a461739f8c7c/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/unwind-4352a461739f8c7c/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/unwind-7182e9209667f0be/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/unwind-7182e9209667f0be/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/unwind-7182e9209667f0be/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/build/unwind-7182e9209667f0be/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/deps/compiler_builtins-5bcb2298f68a8e1e.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/deps/compiler_builtins-a763ee4859780825.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/deps/core-163e01d09d5943ee.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/deps/core-34a96376f63b260c.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/deps/libc-3ea8a2e32ed12f09.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/deps/libc-9a033e5593130c5b.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/deps/libcompiler_builtins-5bcb2298f68a8e1e.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/deps/libcompiler_builtins-5bcb2298f68a8e1e.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/deps/libcompiler_builtins-a763ee4859780825.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/deps/libcompiler_builtins-a763ee4859780825.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/deps/libcore-163e01d09d5943ee.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/deps/libcore-163e01d09d5943ee.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/deps/libcore-34a96376f63b260c.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/deps/libcore-34a96376f63b260c.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/deps/liblibc-3ea8a2e32ed12f09.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/deps/liblibc-3ea8a2e32ed12f09.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/deps/liblibc-9a033e5593130c5b.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/deps/liblibc-9a033e5593130c5b.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/deps/librustc_std_workspace_core-2b2d20813ae95118.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/deps/librustc_std_workspace_core-2b2d20813ae95118.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/deps/librustc_std_workspace_core-81586f448c62ffe5.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/deps/librustc_std_workspace_core-81586f448c62ffe5.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/deps/rustc_std_workspace_core-2b2d20813ae95118.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/riscv32imc-esp-espidf/release/deps/rustc_std_workspace_core-81586f448c62ffe5.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../esp8266-rust/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../esp8266-rust/Cargo.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../esp8266-rust/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/../esp8266-rust/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../esp8266-rust/build_and_flash.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../esp8266-rust/build_and_flash.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../esp8266-rust/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../esp8266-rust/src/main.rs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="e6b4r5x9" />
+  </component>
+  <component name="ProjectId" id="21W2Qni9vFhWp5e5scWWgVEvE4X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../esp32c3-idf-led-example" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="settings.editor.selected.configurable" value="language.rust" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\z\projects\clock\QlockTwo_DIY\esp32c3-rust" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="run --package a_clockwork_blue --bin a_clockwork_blue --release" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f15f8655-f658-4b33-a2c5-d0bfd255b083" name="Changes" comment="" />
+      <created>1638042512750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638042512750</updated>
+      <workItem from="1638042514506" duration="2522000" />
+      <workItem from="1638045479415" duration="3624000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

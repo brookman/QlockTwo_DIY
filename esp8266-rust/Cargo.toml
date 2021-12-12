@@ -10,6 +10,7 @@ edition = "2021"
 panic-halt = "0.2"
 paste = "1.0.6"
 dcf77 = "0.1.0"
+nb = "1.0.0"
 
 [dependencies.bitbang-hal]
 version = "^0.3.2"

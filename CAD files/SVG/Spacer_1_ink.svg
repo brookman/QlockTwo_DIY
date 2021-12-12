@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg158"
+   sodipodi:docname="Spacer_1_ink.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview160"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.2904107"
+     inkscape:cx="269.29411"
+     inkscape:cy="30.222936"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Letters_copy_2" />
+  <defs
+     id="defs155" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="Layer_2"
+       data-name="Layer 2"
+       transform="matrix(0.35215787,0,0,0.35215787,1.5306282,1.5526083)">
+      <g
+         id="Letters_copy_2"
+         data-name="Letters copy 2"
+         style="fill:#333333">
+        <g
+           id="Layer_2-7"
+           data-name="Layer 2"
+           transform="matrix(1.000746,0,0,1.000746,9.6654312,6.9441589)"
+           style="fill:none;stroke:#000000;stroke-width:1.00157;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+          <g
+             id="Layer_1-2"
+             data-name="Layer 1"
+             style="fill:none;stroke:#000000;stroke-width:1.00157;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+            <path
+               class="cls-1"
+               d="M 62.86,23.18 H 0.5 V 41.89 H 992.63 V 23.18 H 930.26 V 0.5 H 880.18 V 22 H 868.85 V 0.5 H 785.7 V 22 H 774.36 V 0.5 H 691.21 V 22 H 679.87 V 0.5 H 596.72 V 22 H 585.38 V 0.5 H 502.23 V 22 H 490.89 V 0.5 H 407.74 V 22 H 396.41 V 0.5 H 313.26 V 22 H 301.92 V 0.5 H 218.77 V 22 H 207.43 V 0.5 H 124.28 V 22 H 112.94 V 0.5 H 62.86 Z"
+               id="path1264"
+               style="fill:none;stroke:#000000;stroke-width:1.00157;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

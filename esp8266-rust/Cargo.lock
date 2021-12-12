@@ -9,6 +9,7 @@ dependencies = [
  "bitbang-hal",
  "dcf77",
  "esp8266-hal",
+ "nb 1.0.0",
  "panic-halt",
  "paste",
 ]

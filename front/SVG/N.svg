@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1069"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="N.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1071"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.73228114"
+     inkscape:cx="396.70556"
+     inkscape:cy="331.83976"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1066" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       class="cls-1"
+       d="M 29.263805,32.452801 20.59751,19.373561 v 13.07924 h -1.158558 v -15.04429 h 1.158558 l 8.683902,13.02993 v -13.02993 h 1.140951 v 15.04429 z"
+       id="path27"
+       style="fill:none;fill-opacity:1;stroke:#231f20;stroke-width:0.375708;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+    <polygon
+       class="cls-1"
+       points="2.81,2.53 2.81,42.3 1.84,42.3 1.84,1.84 3.34,1.84 29.74,41.48 29.74,1.84 30.71,1.84 30.71,42.3 29.22,42.3 "
+       id="polygon29"
+       style="fill:none;fill-opacity:1;stroke:#231f20;stroke-width:1.06689;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.35214528,0,0,0.35216041,19.188929,17.158471)" />
+  </g>
+</svg>

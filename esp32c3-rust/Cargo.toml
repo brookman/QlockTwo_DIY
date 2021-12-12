@@ -1,0 +1,22 @@
+[package]
+name = "esp32c3-idf-led-example"
+version = "0.1.0"
+edition = "2018"
+
+[profile.dev]
+opt-level = "s"
+
+[dependencies]
+anyhow = { version = "1", features = ["backtrace"] }
+log = "0.4"
+esp-idf-sys = { version = "0.27", features = ["binstart", "native"] }
+esp-idf-hal = "0.27"
+embedded-hal = "0.2"
+num = "0.4.0"
+
+[build-dependencies]
+embuild = "0.25"
+anyhow = "1"
+
+[patch.crates-io]
+getrandom = { version = "0.2", git = "https://github.com/esp-rs-compat/getrandom.git" }

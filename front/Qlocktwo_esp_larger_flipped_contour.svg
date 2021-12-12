@@ -1,0 +1,1118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1131.2 1131.2"
+   version="1.1"
+   id="svg238"
+   sodipodi:docname="Qlocktwo_esp_larger_flipped_contour.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview240"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.5434937"
+     inkscape:cx="504.69918"
+     inkscape:cy="474.57272"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="3832"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg238" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient1682"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1680" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1658">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1654" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop1656" />
+    </linearGradient>
+    <style
+       id="style2">.cls-1{font-size:60px;font-family:DIN-Light, DIN;font-weight:300;}.cls-1,.cls-2{fill:#231f20;}</style>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1658"
+       id="linearGradient1660"
+       x1="147.43"
+       y1="565.6"
+       x2="983.77"
+       y2="565.6"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1682"
+       id="linearGradient1684"
+       x1="146.93"
+       y1="565.6"
+       x2="984.27"
+       y2="565.6"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="Letters"
+     style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 983.77, 190.73)"
+       id="text6"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">E</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 903.4, 190.73)"
+       id="text8"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">S</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 825.3, 190.73)"
+       id="text10"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">O</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 747.86, 190.73)"
+       id="text12"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">N</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 663.59, 190.73)"
+       id="text14"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">E</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 582.76, 190.73)"
+       id="text16"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">L</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 503.61, 190.73)"
+       id="text18"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">A</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 423.12, 190.73)"
+       id="text20"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">S</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 346.1, 190.73)"
+       id="text22"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">U</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 267.59, 190.73)"
+       id="text24"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">N</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 183.43, 190.73)"
+       id="text26"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">A</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 986.17, 278.78)"
+       id="text28"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">D</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 905.35, 278.78)"
+       id="text30"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">O</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 823.35, 278.78)"
+       id="text32"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">S</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 733.91, 278.78)"
+       id="text34"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">I</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 661.82, 278.78)"
+       id="text36"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">T</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 585.31, 278.78)"
+       id="text38"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">R</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 503.49, 278.78)"
+       id="text40"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">E</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 423.12, 278.78)"
+       id="text42"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">S</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 345.02, 278.78)"
+       id="text44"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">O</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 263.47, 278.78)"
+       id="text46"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">A</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 189.91, 278.78)"
+       id="text48"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">M</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 985.15, 366.83)"
+       id="text50"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">C</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 906.43, 366.83)"
+       id="text52"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">U</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 823.8, 366.83)"
+       id="text54"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">A</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 741.86, 366.83)"
+       id="text56"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">T</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 665.36, 366.83)"
+       id="text58"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">R</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 585.16, 366.83)"
+       id="text60"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">O</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 504.88, 366.83)"
+       id="text62"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">C</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 413.73, 366.83)"
+       id="text64"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">I</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 347.63, 366.83)"
+       id="text66"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">N</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 264.74, 366.83)"
+       id="text68"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">C</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 184.93, 366.83)"
+       id="text70"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">O</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 983.44, 454.88)"
+       id="text72"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">S</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 903.73, 454.88)"
+       id="text74"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">E</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 813.96, 454.88)"
+       id="text76"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">I</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 743.3, 454.88)"
+       id="text78"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">S</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 663.71, 454.88)"
+       id="text80"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">A</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 583.21, 454.88)"
+       id="text82"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">S</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 493.77, 454.88)"
+       id="text84"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">I</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 423.45, 454.88)"
+       id="text86"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">E</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 341.63, 454.88)"
+       id="text88"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">T</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 263.35, 454.88)"
+       id="text90"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">E</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 187.54, 454.88)"
+       id="text92"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">N</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 985.39, 542.93)"
+       id="text94"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">O</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 905.11, 542.93)"
+       id="text96"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">C</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 826.71, 542.93)"
+       id="text98"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">H</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 745.25, 542.93)"
+       id="text100"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">O</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 667.82, 542.93)"
+       id="text102"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">N</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 586.24, 542.93)"
+       id="text104"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">U</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 503.49, 542.93)"
+       id="text106"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">E</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 421.53, 542.93)"
+       id="text108"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">V</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 343.4, 542.93)"
+       id="text110"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">E</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 264.34, 542.93)"
+       id="text112"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">P</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 189.91, 542.93)"
+       id="text114"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">M</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 982.99, 630.99)"
+       id="text116"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">L</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 903.85, 630.99)"
+       id="text118"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">A</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 826.08, 630.99)"
+       id="text120"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">D</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 733.91, 630.99)"
+       id="text122"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">I</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 663.59, 630.99)"
+       id="text124"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">E</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 582.37, 630.99)"
+       id="text126"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">Z</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 503.16, 630.99)"
+       id="text128"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">S</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 425.07, 630.99)"
+       id="text130"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">O</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 347.63, 630.99)"
+       id="text132"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">N</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 264.74, 630.99)"
+       id="text134"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">C</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 183.31, 630.99)"
+       id="text136"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">E</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 986.17, 719.04)"
+       id="text138"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">D</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 905.35, 719.04)"
+       id="text140"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">O</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 825.06, 719.04)"
+       id="text142"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">C</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 743.63, 719.04)"
+       id="text144"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">E</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 662.81, 719.04)"
+       id="text146"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">L</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 580.42, 719.04)"
+       id="text148"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">Y</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 510.09, 719.04)"
+       id="text150"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">M</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 423.45, 719.04)"
+       id="text152"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">E</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 347.63, 719.04)"
+       id="text154"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">N</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 264.97, 719.04)"
+       id="text156"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">O</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 182.98, 719.04)"
+       id="text158"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">S</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 985.39, 807.09)"
+       id="text160"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">O</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 901.81, 807.09)"
+       id="text162"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">V</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 823.68, 807.09)"
+       id="text164"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">E</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 733.91, 807.09)"
+       id="text166"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">I</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 667.82, 807.09)"
+       id="text168"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">N</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 581.77, 807.09)"
+       id="text170"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">T</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 503.49, 807.09)"
+       id="text172"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">E</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 425.85, 807.09)"
+       id="text174"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">D</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 333.68, 807.09)"
+       id="text176"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">I</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 263.35, 807.09)"
+       id="text178"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">E</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 182.14, 807.09)"
+       id="text180"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">Z</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 981.85, 895.14)"
+       id="text182"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">V</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 903.73, 895.14)"
+       id="text184"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">E</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 813.96, 895.14)"
+       id="text186"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">I</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 747.86, 895.14)"
+       id="text188"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">N</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 661.82, 895.14)"
+       id="text190"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">T</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 573.82, 895.14)"
+       id="text192"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">I</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 504.88, 895.14)"
+       id="text194"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">C</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 413.73, 895.14)"
+       id="text196"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">I</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 347.63, 895.14)"
+       id="text198"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">N</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 264.74, 895.14)"
+       id="text200"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">C</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 184.93, 895.14)"
+       id="text202"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">O</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 990.37, 983.19)"
+       id="text204"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">M</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 903.73, 983.19)"
+       id="text206"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">E</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 826.08, 983.19)"
+       id="text208"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">D</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 733.91, 983.19)"
+       id="text210"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">I</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 663.71, 983.19)"
+       id="text212"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">A</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 584.92, 983.19)"
+       id="text214"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">C</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 506.19, 983.19)"
+       id="text216"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">U</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 423.57, 983.19)"
+       id="text218"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">A</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 345.17, 983.19)"
+       id="text220"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">R</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 261.59, 983.19)"
+       id="text222"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">T</text>
+    <text
+       class="cls-1"
+       transform="matrix(-1, 0, 0, 1, 184.93, 983.19)"
+       id="text224"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1">O</text>
+    <text
+       x="-125.82"
+       y="-125.82"
+       id="text226"
+       style="fill:none;stroke:#000000;stroke-opacity:1;fill-opacity:1" />
+  </g>
+  <g
+     id="Dots">
+    <circle
+       class="cls-2"
+       cx="1128.11"
+       cy="3.09"
+       r="3.09"
+       id="circle229" />
+    <circle
+       class="cls-2"
+       cx="1128.11"
+       cy="1128.11"
+       r="3.09"
+       id="circle231" />
+    <circle
+       class="cls-2"
+       cx="33.11"
+       cy="1128.11"
+       r="3.09"
+       id="circle233" />
+    <circle
+       class="cls-2"
+       cx="3.09"
+       cy="3.09"
+       r="3.09"
+       id="circle235" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:none">
+    <g
+       id="Letters-9"
+       transform="translate(-0.00712393,0.10558787)">
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,983.77,190.73)"
+         id="text6-1">E</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,903.4,190.73)"
+         id="text8-2">S</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,825.3,190.73)"
+         id="text10-4">O</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,747.86,190.73)"
+         id="text12-2">N</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,663.59,190.73)"
+         id="text14-0">E</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,582.76,190.73)"
+         id="text16-7">L</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,503.61,190.73)"
+         id="text18-1">A</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,423.12,190.73)"
+         id="text20-2">S</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,346.1,190.73)"
+         id="text22-5">U</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,267.59,190.73)"
+         id="text24-5">N</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,183.43,190.73)"
+         id="text26-0">A</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,986.17,278.78)"
+         id="text28-9">D</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,905.35,278.78)"
+         id="text30-1">O</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,823.35,278.78)"
+         id="text32-4">S</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,733.91,278.78)"
+         id="text34-3">I</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,661.82,278.78)"
+         id="text36-8">T</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,585.31,278.78)"
+         id="text38-7">R</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,503.49,278.78)"
+         id="text40-0">E</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,423.12,278.78)"
+         id="text42-9">S</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,345.02,278.78)"
+         id="text44-3">O</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,263.47,278.78)"
+         id="text46-6">A</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,189.91,278.78)"
+         id="text48-0">M</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,985.15,366.83)"
+         id="text50-9">C</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,906.43,366.83)"
+         id="text52-3">U</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,823.8,366.83)"
+         id="text54-1">A</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,741.86,366.83)"
+         id="text56-4">T</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,665.36,366.83)"
+         id="text58-4">R</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,585.16,366.83)"
+         id="text60-5">O</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,504.88,366.83)"
+         id="text62-9">C</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,413.73,366.83)"
+         id="text64-4">I</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,347.63,366.83)"
+         id="text66-8">N</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,264.74,366.83)"
+         id="text68-0">C</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,184.93,366.83)"
+         id="text70-8">O</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,983.44,454.88)"
+         id="text72-9">S</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,903.73,454.88)"
+         id="text74-2">E</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,813.96,454.88)"
+         id="text76-2">I</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,743.3,454.88)"
+         id="text78-4">S</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,663.71,454.88)"
+         id="text80-6">A</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,583.21,454.88)"
+         id="text82-9">S</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,493.77,454.88)"
+         id="text84-7">I</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,423.45,454.88)"
+         id="text86-3">E</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,341.63,454.88)"
+         id="text88-5">T</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,263.35,454.88)"
+         id="text90-6">E</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,187.54,454.88)"
+         id="text92-5">N</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,985.39,542.93)"
+         id="text94-0">O</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,905.11,542.93)"
+         id="text96-2">C</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,826.71,542.93)"
+         id="text98-8">H</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,745.25,542.93)"
+         id="text100-2">O</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,667.82,542.93)"
+         id="text102-4">N</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,586.24,542.93)"
+         id="text104-8">U</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,503.49,542.93)"
+         id="text106-5">E</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,421.53,542.93)"
+         id="text108-4">V</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,343.4,542.93)"
+         id="text110-8">E</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,264.34,542.93)"
+         id="text112-2">P</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,189.91,542.93)"
+         id="text114-8">M</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,982.99,630.99)"
+         id="text116-4">L</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,903.85,630.99)"
+         id="text118-7">A</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,826.08,630.99)"
+         id="text120-5">D</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,733.91,630.99)"
+         id="text122-8">I</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,663.59,630.99)"
+         id="text124-1">E</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,582.37,630.99)"
+         id="text126-5">Z</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,503.16,630.99)"
+         id="text128-5">S</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,425.07,630.99)"
+         id="text130-1">O</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,347.63,630.99)"
+         id="text132-5">N</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,264.74,630.99)"
+         id="text134-3">C</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,183.31,630.99)"
+         id="text136-6">E</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,986.17,719.04)"
+         id="text138-3">D</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,905.35,719.04)"
+         id="text140-0">O</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,825.06,719.04)"
+         id="text142-5">C</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,743.63,719.04)"
+         id="text144-6">E</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,662.81,719.04)"
+         id="text146-2">L</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,580.42,719.04)"
+         id="text148-7">Y</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,510.09,719.04)"
+         id="text150-1">M</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,423.45,719.04)"
+         id="text152-0">E</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,347.63,719.04)"
+         id="text154-6">N</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,264.97,719.04)"
+         id="text156-5">O</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,182.98,719.04)"
+         id="text158-4">S</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,985.39,807.09)"
+         id="text160-2">O</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,901.81,807.09)"
+         id="text162-5">V</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,823.68,807.09)"
+         id="text164-4">E</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,733.91,807.09)"
+         id="text166-3">I</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,667.82,807.09)"
+         id="text168-7">N</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,581.77,807.09)"
+         id="text170-8">T</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,503.49,807.09)"
+         id="text172-9">E</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,425.85,807.09)"
+         id="text174-0">D</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,333.68,807.09)"
+         id="text176-7">I</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,263.35,807.09)"
+         id="text178-6">E</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,182.14,807.09)"
+         id="text180-9">Z</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,981.85,895.14)"
+         id="text182-8">V</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,903.73,895.14)"
+         id="text184-5">E</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,813.96,895.14)"
+         id="text186-6">I</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,747.86,895.14)"
+         id="text188-1">N</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,661.82,895.14)"
+         id="text190-8">T</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,573.82,895.14)"
+         id="text192-0">I</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,504.88,895.14)"
+         id="text194-1">C</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,413.73,895.14)"
+         id="text196-5">I</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,347.63,895.14)"
+         id="text198-1">N</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,264.74,895.14)"
+         id="text200-4">C</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,184.93,895.14)"
+         id="text202-0">O</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,990.37,983.19)"
+         id="text204-4">M</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,903.73,983.19)"
+         id="text206-4">E</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,826.08,983.19)"
+         id="text208-0">D</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,733.91,983.19)"
+         id="text210-4">I</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,663.71,983.19)"
+         id="text212-6">A</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,584.92,983.19)"
+         id="text214-6">C</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,506.19,983.19)"
+         id="text216-7">U</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,423.57,983.19)"
+         id="text218-6">A</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,345.17,983.19)"
+         id="text220-0">R</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,261.59,983.19)"
+         id="text222-1">T</text>
+      <text
+         class="cls-1"
+         transform="matrix(-1,0,0,1,184.93,983.19)"
+         id="text224-4">O</text>
+      <text
+         x="-125.82"
+         y="-125.82"
+         id="text226-9" />
+    </g>
+  </g>
+</svg>
