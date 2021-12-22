@@ -115,19 +115,8 @@ impl<const NUM_LEDS: usize> LedStrip<NUM_LEDS> {
 
         println!("zero_high_ticks {}, zero_low_ticks {}, one_high_ticks {}, one_low_ticks {}, ", zero_high_ticks, zero_low_ticks, one_high_ticks, one_low_ticks);
 
-        let bit0 = Self::create_rmt_item32(
-            zero_high_ticks,
-            1,
-            zero_low_ticks,
-            0,
-        );
-
-        let bit1 = Self::create_rmt_item32(
-            one_high_ticks,
-            1,
-            one_low_ticks,
-            0,
-        );
+        let bit0 = Self::create_rmt_item32(zero_high_ticks, 1, zero_low_ticks, 0);
+        let bit1 = Self::create_rmt_item32(one_high_ticks, 1, one_low_ticks, 0);
 
         Ok(LedStrip {
             colors: [Color::new(0, 0, 0, 0); NUM_LEDS],

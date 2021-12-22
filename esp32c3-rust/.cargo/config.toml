@@ -9,7 +9,8 @@ rustflags = ["-C", "default-linker-libraries"]
 
 [unstable]
 build-std = ["std", "panic_abort"]
-build-std-features = ["panic_immediate_abort"]
+#build-std-features = ["panic_immediate_abort"]
+build-std-features = []
 
 [env]
 ESP_IDF_SYS_GLOB_BASE = { value = ".", relative = true }
