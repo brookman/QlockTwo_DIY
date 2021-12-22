@@ -49,7 +49,7 @@ impl ClockFace {
                 for i in 0..self.leds.colors.len() {
                     self.leds.colors[i] = Color::new(0, 0, 0, 0xff);
                 }
-                self.leds.brightness = ((get_time() as f32 / 250_000f32).sin() + 1.0) / 4.0 + 0.5;
+                self.leds.brightness = ((get_time() as f32 / 250_000f32).sin() + 1.0) / 4.0 + 0.25;
             }
             ClockFaceState::DisplayTime => {
                 let b1 = self.current_time.seconds % 2;

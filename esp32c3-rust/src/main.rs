@@ -1,16 +1,10 @@
 #![feature(asm)]
 
-use std::ptr;
-use std::ptr::null;
-use std::thread::yield_now;
-
 #[warn(incomplete_features)]
 #[cfg_attr(std, esp32c3)]
 use anyhow::*;
-use chrono::Duration;
-use embedded_hal::digital::v2::{InputPin, OutputPin};
+use embedded_hal::digital::v2::InputPin;
 use esp_idf_hal::prelude::Peripherals;
-use esp_idf_sys::esp_task_wdt_deinit;
 use log::*;
 
 use crate::adc::read_analog_value;
@@ -18,25 +12,22 @@ use crate::clock::{Clock, ClockState};
 use crate::clock_face::ClockFace;
 use crate::common::thread_sleep;
 use crate::led_strip::LedStrip;
+use crate::status_led::StatusLed;
 
 mod led_strip;
 mod adc;
 mod clock;
 mod clock_face;
 mod common;
+mod status_led;
 
 const NUMBER_OF_LEDS: usize = 114;
 
 fn main() -> Result<()> {
-    unsafe {
-        // esp_task_wdt_delete(ptr::null_mut());
-        esp_task_wdt_deinit();
-    }
-
     let peripherals = Peripherals::take().unwrap();
     let time_input = peripherals.pins.gpio7.into_input().unwrap();
 
-    let mut led3_red = peripherals.pins.gpio3.into_output().unwrap();
+    let mut led3_red = StatusLed::new(peripherals.pins.gpio3.into_output().unwrap());
 
     let leds = LedStrip::<NUMBER_OF_LEDS>::new(
         esp_idf_sys::rmt_channel_t_RMT_CHANNEL_0,
@@ -47,19 +38,15 @@ fn main() -> Result<()> {
     let mut clock_face = ClockFace::new(leds);
 
     loop {
-        let time_high = time_input.is_high().unwrap();
+        let time_high = time_input.is_high().unwrap_or(false);
         clock.update(time_high);
 
         if clock.clock_state == ClockState::Uninitialized {
-            if time_high {
-                led3_red.set_low().unwrap();
-            } else {
-                led3_red.set_high().unwrap();
-            }
-            // clock_face.set_uninitialized();
+            led3_red.set(!time_high);
+            clock_face.set_uninitialized();
         } else {
-            led3_red.set_low().unwrap();
-            // clock_face.set_time(clock.get_time());
+            led3_red.set_low();
+            clock_face.set_time(clock.get_time());
         }
 
         // handle buttons:
@@ -68,7 +55,7 @@ fn main() -> Result<()> {
         // let brightness = read_analog_value() as f32 / 4096.0;
         // watch_face.set_brightness(brightness);
 
-        // clock_face.update();
+        clock_face.update();
 
         let time_to_sleep = clock.get_time_to_sleep();
         thread_sleep(time_to_sleep)

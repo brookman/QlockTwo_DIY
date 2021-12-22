@@ -16,6 +16,14 @@ struct DateTimeReading {
     timestamp: Timestamp,
 }
 
+#[derive(Eq, PartialEq, Copy, Clone, Debug)]
+pub enum DateTimeError {
+    InvalidStart,
+    DateInvalid,
+    HoursInvalid,
+    MinutesInvalid,
+}
+
 impl DateTimeReading {
     pub fn extrapolated_to_now(&self) -> NaiveDateTime {
         self.date_time + self.timestamp.get_delta()
@@ -68,7 +76,14 @@ impl Clock {
         }
 
         if self.decoder.end_of_cycle() {
-            self.update_date_time(DCF77Time::new(self.decoder.raw_data()));
+            let dcf77_time = DCF77Time::new(self.decoder.raw_data());
+            match self.parse_date_time(dcf77_time) {
+                Ok(date_time) => self.on_valid(DateTimeReading {
+                    timestamp: Timestamp::now(),
+                    date_time,
+                }),
+                Err(error) => self.on_problem(error)
+            }
         }
     }
 
@@ -80,79 +95,59 @@ impl Clock {
         }
     }
 
-    fn update_date_time(&mut self, date_time: DCF77Time) {
-        match date_time.validate_start() {
+    fn parse_date_time(&self, dcf77_time: DCF77Time) -> Result<NaiveDateTime, DateTimeError> {
+        match dcf77_time.validate_start() {
             Ok(_) => {}
-            Err(_) => {
-                self.on_problem("Start invalid");
-                return;
-            }
+            Err(_) => { return Err(DateTimeError::InvalidStart); }
         };
-        println!("[Clock] start valid");
 
-        let (year, month, day, _) = match date_time.date() {
+        let (year, month, day, _) = match dcf77_time.date() {
             Ok(date) => date,
-            Err(_) => {
-                self.on_problem("Date invalid");
-                return;
-            }
+            Err(_) => { return Err(DateTimeError::DateInvalid); }
         };
-        println!("[Clock] date valid");
 
-        let hours = match date_time.hours() {
+        let hours = match dcf77_time.hours() {
             Ok(hours) => hours,
-            Err(_) => {
-                self.on_problem("Hours invalid");
-                return;
-            }
+            Err(_) => { return Err(DateTimeError::HoursInvalid); }
         };
-        println!("[Clock] hours valid");
 
-        let minutes = match date_time.minutes() {
+        let minutes = match dcf77_time.minutes() {
             Ok(minutes) => minutes,
-            Err(_) => {
-                self.on_problem("Minutes invalid");
-                return;
-            }
+            Err(_) => { return Err(DateTimeError::MinutesInvalid); }
         };
-        println!("[Clock] minutes valid");
 
         let date_time = NaiveDate::from_ymd_opt(year as i32, month as u32, day as u32)
             .and_then(|d| d.and_hms_opt(hours as u32, minutes as u32, 0));
 
-        if date_time == None {
-            println!("[Clock] Invalid date/time {}-{}-{} {}:{}", year, month, day, hours, minutes);
-            return;
-        }
-
-        self.on_valid(DateTimeReading {
-            timestamp: Timestamp::now(),
-            date_time: date_time.unwrap(),
-        });
+        return match date_time {
+            Some(date_time) => { Ok(date_time) }
+            None => {
+                println!("[Clock] Invalid date/time {}-{}-{} {}:{}", year, month, day, hours, minutes);
+                Err(DateTimeError::DateInvalid)
+            }
+        };
     }
 
     pub fn get_time_to_sleep(&self) -> Duration {
         Duration::milliseconds(10) - self.last_update.get_delta()
     }
 
-    fn on_problem(&mut self, problem: &str) {
-        println!("[Clock] Problem: {}", problem);
-        if self.clock_state == ClockState::Uninitialized {
-            return;
+    fn on_problem(&mut self, problem: DateTimeError) {
+        println!("[Clock] Problem: {:?}", problem);
+        if self.clock_state != ClockState::Uninitialized {
+            self.clock_state = if self.last_valid.get_delta() > Duration::hours(3) {
+                println!("[Clock] Warning: No valid time signal for more than 3 hours.");
+                ClockState::Uninitialized
+            } else {
+                ClockState::Problematic
+            };
         }
-        self.clock_state = if self.last_valid.get_delta() > Duration::hours(3) {
-            println!("[Clock] Warning: No valid time signal for more than 3 hours.");
-            ClockState::Uninitialized
-        } else {
-            ClockState::Problematic
-        };
     }
 
     fn on_valid(&mut self, reading: DateTimeReading) {
-        println!("[Clock] Valid date time reading: {:?}", reading);
-
         let delta = reading.date_time - self.estimated_date_time;
-        println!("[Clock] Delta to internal clock: {} s", delta.num_seconds());
+
+        println!("[Clock] Valid date time reading: {:?}, delta: {} s", reading, delta.num_seconds());
 
         if self.clock_state == ClockState::Uninitialized || delta.abs() <= Duration::minutes(90) {
             self.set_valid_date_time(reading.date_time);
