@@ -1,0 +1,31 @@
+[package]
+name = "esp32c3-multicrate"
+version = "0.1.0"
+authors = ["beba"]
+edition = "2018"
+resolver = "2"
+
+[profile.release]
+opt-level = "s"
+
+[profile.dev]
+debug = true # Symbols are nice and they don't increase the size on Flash
+opt-level = "z"
+
+[features]
+native = ["esp-idf-sys/native"]
+
+[dependencies]
+other = { path = "other" }
+spanish_clockface = { path = "spanish_clockface" }
+esp-idf-sys = { version = "0.30.1", features = ["binstart"] }
+esp-idf-hal = "0.32.3"
+embedded-hal = "0.2.6"
+num = "0.4.0"
+dcf77 = "0.1.0"
+chrono = { version = "0.4", default-features = false, features = [] }
+backtrace = "0.3.63"
+
+[build-dependencies]
+embuild = "0.27"
+anyhow = "1"
